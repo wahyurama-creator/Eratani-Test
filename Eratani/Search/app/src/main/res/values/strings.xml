@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search Word</string>
+    <string name="search_words">Search Words</string>
+    <string name="icon_search">Icon Search</string>
+</resources>

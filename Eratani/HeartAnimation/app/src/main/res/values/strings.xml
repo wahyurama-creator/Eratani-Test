@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Heart Animation</string>
+    <string name="bpm_beat">Beat Heart: %d</string>
+</resources>
